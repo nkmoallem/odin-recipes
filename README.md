@@ -5,6 +5,6 @@ This is my first project of the Odin Project course; we are tasked to create thr
 - Italic text
 - Lists
 - Images
-- Lists
+- Links
 
 I aim to implement all the above skills in this project.
